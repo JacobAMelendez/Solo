@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "exercise": "Bench",
+      "weight": "300",
+      "set": "5",
+      "reps": "10",
+      "comment": "Push harder next time"
+    },
+    {
+        "id": 2,
+        "exercise": "squat",
+        "weight": "300",
+        "set": "5",
+        "reps": "10",
+        "comment": "You Can Do it"
+      }
+]
